@@ -1,0 +1,27 @@
+body{
+    background-image: url(https://th.bing.com/th/id/R.d047129d065202c5264b22a8b2d6b039?rik=ricA08bSv5lK1w&riu=http%3a%2f%2f1.bp.blogspot.com%2f-omt4N_pSq5o%2fTwbLhF-ffzI%2fAAAAAAAAATc%2fZdF8xEUAwgA%2fs1600%2fpapel-de-parede-desenhos-animados.jpg&ehk=5T%2bcMwQCXR09z%2bcGlGw6EPATgwDzG180uQPQAtgnRsM%3d&risl=&pid=ImgRaw&r=0);
+    background-repeat: no-repeat;
+    background-size: 1640px 900px;
+}
+
+div{
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#email{
+    width: 330px;
+}
+
+input{
+    height: 20px;
+    font-size: 18px;
+}
+#senha{
+    width: 335px;
+}
+
+label{
+    color:rgb(15, 37, 83);
+}
+
